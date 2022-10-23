@@ -18,4 +18,3 @@ while (estudiantes.length > 0) {   // Aquí la tarea se hará siempre y cuando s
     var estudiante = estudiantes.shift();  // shift() es un método que saca un elemento del array de la posición 0 a la última, Pop() comienza de la última a la primera.
     saludarEstudiante(estudiante);
 }
- 
